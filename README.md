@@ -4,9 +4,9 @@
 
 ## This is a list of the countries of the world by continent.
 
-
-`//step-2: Kıtalar -Ülke İsimleri
+            //step-2: Continents -Country Names
                MyDictionary<string, string> countries = new MyDictionary<string, string>();
+               
             //Africa
             countries.Add("Africa", "Angola, Batı Sahra , Benin, Botsvana , Burkina Faso, Burundi, Cezayir, " +
                 "Cibuti, Çad,Kongo DC, Ekvator Ginesi, Eritre, Etiyopya, Fas, Fildişi Sahili, Gabon, Gambiya, Gana, Gine, Gine Bissau, " +
@@ -14,8 +14,8 @@
                 "Madagaskar, Malavi, Mali, Mauritius, Moritanya, Mozambik, Mısır, Namibya, Nijer, Nijerya, Orta Afrika Cumhuriyeti, " +
                 "Ruanda, Sao Tome ve Principe, Senegal, Seyşel Adaları, Sierra Leone, Somali, Sudan, Esvatini, Tanzanya, Togo, Tunus, " +
                 "Uganda, Zambiya, Zimbabve");
-
-            //Asia
+                
+                //Asia
             countries.Add("Asia", "Afganistan, Azerbaycan, Bahreyn,Bangladeş, Bhutan, Birleşik Arap Emirlikleri, Brunei, Çin, Doğu Timor, " +
                 "Endonezya,Ermenistan, Filipinler, Filistin, Güney Kore, Gürcistan, Hindistan, Irak, İran, İsrail, Japonya," +
                 "Katar, Kazakistan, Kırgızistan, Kuzey Kore, Malezya, Nepal, Özbekistan, Pakistan, Rusya, Singapur, Sri Lanka, Suriye, Tacikistan," +
@@ -41,14 +41,9 @@
                 " Tonga, Tuvalu, Vanuatu, Yeni Zelanda");
 
             //Zealandia -Hidden Continent
-            countries.Add("Zealandia", "Yeni Zealandia, Yeni Kaledonya");`
+            countries.Add("Zealandia", "Yeni Zealandia, Yeni Kaledonya");
             
-            
-            
-            
-
-
-
+     
 
 **Continent**</br>
 The word continent is used to differentiate between various large land areas of Earth into which all the land surface of the planet is divided. The term refers to the 'mountain top' regions of the Earth not flooded by water, dry land.

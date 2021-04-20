@@ -5,15 +5,15 @@
 ## This is a list of the countries of the world by continent.
 
 
-//step-2: Kıtalar -Ülke İsimleri
-              ` MyDictionary<string, string> countries = new MyDictionary<string, string>();
+`//step-2: Kıtalar -Ülke İsimleri
+               MyDictionary<string, string> countries = new MyDictionary<string, string>();
             //Africa
             countries.Add("Africa", "Angola, Batı Sahra , Benin, Botsvana , Burkina Faso, Burundi, Cezayir, " +
                 "Cibuti, Çad,Kongo DC, Ekvator Ginesi, Eritre, Etiyopya, Fas, Fildişi Sahili, Gabon, Gambiya, Gana, Gine, Gine Bissau, " +
                 "Güney Afrika Cumhuriyeti, Kamerun, Yeşil Burun Adaları, Kenya, Komorlar, Kongo Cumhuriyeti, Lesotho, Liberya, Libya, " +
                 "Madagaskar, Malavi, Mali, Mauritius, Moritanya, Mozambik, Mısır, Namibya, Nijer, Nijerya, Orta Afrika Cumhuriyeti, " +
                 "Ruanda, Sao Tome ve Principe, Senegal, Seyşel Adaları, Sierra Leone, Somali, Sudan, Esvatini, Tanzanya, Togo, Tunus, " +
-                "Uganda, Zambiya, Zimbabve");`
+                "Uganda, Zambiya, Zimbabve");
 
             //Asia
             countries.Add("Asia", "Afganistan, Azerbaycan, Bahreyn,Bangladeş, Bhutan, Birleşik Arap Emirlikleri, Brunei, Çin, Doğu Timor, " +
@@ -41,7 +41,7 @@
                 " Tonga, Tuvalu, Vanuatu, Yeni Zelanda");
 
             //Zealandia -Hidden Continent
-            countries.Add("Zealandia", "Yeni Zealandia, Yeni Kaledonya");
+            countries.Add("Zealandia", "Yeni Zealandia, Yeni Kaledonya");`
             
             
             

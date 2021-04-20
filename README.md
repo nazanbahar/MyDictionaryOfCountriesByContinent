@@ -2,7 +2,7 @@
 ## World Continent - Countries by continent
 
 
-## This is a list of the countries of the world by continent.
+## This is a myDictionary of the Countries of the World by Continent.
 
             //step-2: Continents -Country Names
                MyDictionary<string, string> countries = new MyDictionary<string, string>();

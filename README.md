@@ -2,7 +2,7 @@
 ## World Continent - Countries by continent
 
 
-##This is a list of the countries of the world by continent.##
+## This is a list of the countries of the world by continent.
 
 **Continent**</br>
 The word continent is used to differentiate between various large land areas of Earth into which all the land surface of the planet is divided. The term refers to the 'mountain top' regions of the Earth not flooded by water, dry land.

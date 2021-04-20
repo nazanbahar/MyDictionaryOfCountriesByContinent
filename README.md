@@ -1,5 +1,9 @@
 # ProblemsIntro - MyDictionary
-## World Continent - Countries by continent
+## **World Continent - Countries by continent **
+
 
 The word continent is used to differentiate between various large land areas of Earth into which all the land surface of the planet is divided. The term refers to the 'mountain top' regions of the Earth not flooded by water, dry land.
 The level of the surrounding water ultimately defines the shape and borders of continents. More water implies less land and different outlines. Even more water, like that stored away as ice in the poles and glaciers, and you might live on a water planet, no continents.
+
+https://simple.wikipedia.org/wiki/List_of_countries_by_continents
+https://www.geosociety.org/gsatoday/archive/27/3/article/GSATG321A.1.htm (Zealandia: Earth’s Hidden Continent)

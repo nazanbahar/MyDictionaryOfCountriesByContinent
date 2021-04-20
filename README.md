@@ -1,6 +1,4 @@
 # ProblemsIntro - MyDictionary
-## World Continent - Countries by continent
-
 
 ## My Dictionary of World Countries by Continents.
 

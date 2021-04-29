@@ -52,3 +52,7 @@ The level of the surrounding water ultimately defines the shape and borders of c
 [Zealandia: Earth’s Hidden Continent Geosociety Pages](https://www.geosociety.org/gsatoday/archive/27/3/article/GSATG321A.1.htm)
 
 `console.log("Hello, World!");`
+
+```function (){
+console.log("Hello, World!);
+}```

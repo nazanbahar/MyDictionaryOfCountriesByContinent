@@ -39,7 +39,7 @@
                 " Tonga, Tuvalu, Vanuatu, Yeni Zelanda");
 
             //Zealandia -Hidden Continent
-            countries.Add("Zealandia", "Yeni Zealandia, Yeni Kaledonya"); ```
+            countries.Add("Zealandia", "Yeni Zealandia, Yeni Kaledonya"); 
             
      
 
